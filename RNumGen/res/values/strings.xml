@@ -6,5 +6,6 @@
     <string name="version">1.0.0</string>
     <string name="description">The trusty android app that generates random numbers between the range you choose.</string>
     <string name="pulltogen">Pull to generate!</string>
+    <string name="number">Your number is</string>
 
 </resources>
