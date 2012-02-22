@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, RNumGenActivity!</string>
+    <string name="hello">Welcome to RNumGen, your trusty open-source random number generator.</string>
     <string name="app_name">RNumGen</string>
+    <string name="version">1.0.0</string>
 
 </resources>
