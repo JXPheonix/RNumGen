@@ -16,7 +16,7 @@ public final class R {
     }
     public static final class id {
         public static final int content=0x7f050001;
-        public static final int handle=0x7f050002;
+        public static final int sdhandle=0x7f050002;
         public static final int slidingDrawer1=0x7f050000;
         public static final int textViewNum=0x7f050003;
     }

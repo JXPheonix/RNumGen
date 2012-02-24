@@ -14,13 +14,14 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:content="@+id/content"
-        android:handle="@+id/handle" >
+        android:handle="@+id/sdhandle" >
 
         <Button
-            android:id="@+id/handle"
+            android:id="@+id/sdhandle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/pulltogen" />
+            android:text="@string/pulltogen"
+            android:onClick="makegen" />
 
         <LinearLayout
             android:id="@+id/content"
