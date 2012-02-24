@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to RNumGen, your trusty open-source random number generator.</string>
+    <string name="app_name">RNumGen</string>
+    <string name="version">1.0.0</string>
+    <string name="description">The trusty android app that generates random numbers between the range you choose.</string>
+    <string name="pulltogen">Pull to generate!</string>
+    <string name="number">If you are seeing this something is broken!</string>
+
+</resources>
